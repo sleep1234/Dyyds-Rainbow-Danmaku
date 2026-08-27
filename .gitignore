@@ -1,0 +1,16 @@
+# Build outputs
+app/build/
+build/
+.gradle/
+
+# IDE*.iml
+*.jpr
+*.iws
+.project
+.clasppath
+#
+# OS^.DoS.Windows
+.DS_store
+Thumbs.db
+
+# APK#**.apk
